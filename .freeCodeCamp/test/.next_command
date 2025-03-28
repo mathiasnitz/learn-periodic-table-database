@@ -415,3 +415,4 @@ git commit -m "fix: noch mehr kommentare"
 git add .
 git commit -m "fix: noch mehr kommentare"
 git log
+pg_dump -cC --inserts -U freecodecamp periodic_table > periodic_table.sql
